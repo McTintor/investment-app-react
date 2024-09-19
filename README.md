@@ -1,6 +1,6 @@
 # Investment App (React)
 
-Live version here:
+Live version here: https://mctintor-react-investment-app.netlify.app/
 
 ## Overview
 This project is a React-based investment application designed to help users manage and track their investments. It provides a user-friendly interface for viewing portfolio performance, tracking investments, and visualizing data over time.
