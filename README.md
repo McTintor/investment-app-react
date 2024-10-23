@@ -1,4 +1,4 @@
-# Investment App (React)
+# Investment App
 
 Live version here: https://mctintor-react-investment-app.netlify.app/
 
